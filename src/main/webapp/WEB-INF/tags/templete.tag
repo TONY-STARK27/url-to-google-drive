@@ -96,7 +96,7 @@
                 <li><a href="${pageContext.request.contextPath}"><i class="icon-home"></i>Home</a></li>
                 <li><a href="${pageContext.request.contextPath}/new_upload"><i class="fa fa-cloud-upload"></i>New upload</a></li>
                 <li><a href="${pageContext.request.contextPath}/uploads"> <i class="fa fa-tachometer"></i>Your Uploads </a></li>
-                <li><a href="${pageContext.request.contextPath}/about"> <i class="fa-solid fa-circle-info"></i>About Us </a></li>
+                <li><a href="${pageContext.request.contextPath}/about"> <i class="fa fa-info-circle"></i>About Us </a></li>
             </ul>
         </nav>
         <div class="content-inner" id="content-inner">
